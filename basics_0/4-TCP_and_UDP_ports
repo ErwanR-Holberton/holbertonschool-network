@@ -1,1 +1,2 @@
-netstat -tuln
+#!/usr/bin/env bash
+netstat
